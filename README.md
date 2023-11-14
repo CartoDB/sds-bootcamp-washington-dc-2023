@@ -25,6 +25,7 @@ If you can't access this document, try logging out from your company Google orga
 
   - 10:45 - 11:15 AM
   - Aaron Fraint, Senior Solutions Engineer at CARTO
+  - [Slides](https://docs.google.com/presentation/d/1LmJMiLroWzYIG9Qm65RCQlSEDADpxYRlZVOjAf4rApA/view?usp=sharing)
 
 - **An Intro to Geospatial Data Engineering**
 
@@ -40,6 +41,7 @@ If you can't access this document, try logging out from your company Google orga
 
   - 12:15 - 1:45 PM
   - Amelia Prior, Technical Lead at HIP Consult Inc.
+  - [Slides](https://drive.google.com/file/d/1Pw3R7rCfkXat7hZrIyIdNqIXXEKB8uqO/view?usp=sharing) and [worksheet](https://drive.google.com/file/d/1YJqBa5LVJFsGkp8ANDPUMuG4X6WZUMSx/view?usp=sharing)
 
 - Lunch Break
 
