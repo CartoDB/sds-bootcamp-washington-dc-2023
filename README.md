@@ -26,29 +26,31 @@ If you can't access this document, try logging out from your company Google orga
   - 10:45 - 11:15 AM
   - Aaron Fraint, Senior Solutions Engineer at CARTO
 
-- Break
-
-  - 11:15 - 11:45 AM
-
 - **An Intro to Geospatial Data Engineering**
 
-  - 11:45 AM - 12:45 PM
+  - 11:15 AM - 12:00 PM
   - Tobin W. McGilligan, Project Manager at CARTO
+  - [Slides](https://docs.google.com/presentation/d/1BHhJt3_7cqyZFKzi6zyORug_GWZJMQqfW0j2Yg1_p-4/edit#slide=id.g242294abb39_12_131)
+
+- Coffee Break
+
+  - 12:00 - 12:15 PM
 
 - **Using SQL to Scale Your Spatial Analytics**
 
-  - 12:45 - 2:15 PM
+  - 12:15 - 1:45 PM
   - Amelia Prior, Technical Lead at HIP Consult Inc.
 
-- Break
+- Lunch Break
 
-  - 2:15 - 3:15 PM
+  - 1:45 - 2:45 PM
 
 - **Leveraging Python for Spatial Data Science**
 
-  - 3:15 - 4:45 PM
+  - 2:45 - 4:15 PM
   - Taylor Oshan, Assistant Professor in the Center for Geospatial Information Science
 
 - **Data Visualization Clinic**
-  - 4:45 - 5:15 PM
+  - 4:15 - 4:45 PM
   - Aaron Fraint, Senior Solutions Engineer at CARTO
+  - [Slides](https://docs.google.com/presentation/d/1ZBRIKaZTdrmBtVaBfPXlQ_vZAYJwYuf_FIVqt0WIVkw/edit?usp=sharing)
