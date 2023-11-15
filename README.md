@@ -20,6 +20,7 @@ If you can't access this document, try logging out from your company Google orga
 
   - 9:45 - 10:45 AM
   - Robert Cheetham, Chief Strategy Officer at Element 84
+  - [Slides](https://docs.google.com/presentation/d/1lWARgldlfYLteGacnufwJwwJARgykPzjN5_HhfBWsdY/edit?usp=sharing)
 
 - **The Modern Geospatial Data Stack**
 
