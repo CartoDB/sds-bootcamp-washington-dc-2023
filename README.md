@@ -52,7 +52,7 @@ If you can't access this document, try logging out from your company Google orga
 
   - 2:45 - 4:15 PM
   - Taylor Oshan, Assistant Professor in the Center for Geospatial Information Science
-  - [Materials](https://github.com/GEOSMASH/carto-sdsc-bootcamp-2023-DC)
+  - [Slides](https://docs.google.com/presentation/d/1fMuBqfxV1PQcnkBjv7PPNjI0QcGa_A_cwZT-21DSEuU/edit?usp=sharing) and [materials](https://github.com/GEOSMASH/carto-sdsc-bootcamp-2023-DC)
 
 - **Data Visualization Clinic**
   - 4:15 - 4:45 PM
